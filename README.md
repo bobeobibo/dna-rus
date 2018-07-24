@@ -3,5 +3,5 @@
 
 =====
 
-Sometimes you look at DNA and it is clear as mud! What if translate it into Russian, will it become clearer??
+Sometimes you look at DNA and it is clear as mud! Will it become clearer when translated into Russian??
 This script takes single .fasta file and translates it into Russian.
